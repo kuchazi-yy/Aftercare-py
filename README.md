@@ -34,8 +34,6 @@ Prometheus：`http://localhost:9090`
 - 场景过滤将工具 Schema 从 1566 Token 降至平均 690 Token，减少 56.0%。
 - 1000 至 8000 输入 Token 下，模型 TTFT P50 从 393ms 增至 1090ms。
 
-完整口径与限制见 [实验报告](docs/experiments.md)，技术选型见 [架构设计](docs/architecture.md)。
-
 ## 本地开发
 
 ```powershell
